@@ -24,8 +24,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program :
 
-## Developed By : ALIYA SHEEMA 
-## Register Number : 212223230011
+## Developed By : JAYAPRADAN M
+## Register Number : 212224240061
 
 ## Input Grayscale Image :
 ```
